@@ -2,6 +2,8 @@
 
 Sistema desenvolvido para centralizar, organizar e divulgar os Projetos Integradores acadêmicos da Faculdade Senac, proporcionando um ambiente único para submissão, avaliação e consulta de trabalhos desenvolvidos por alunos.
 
+* Acesso ao sistema: https://observatorio-pi-blond.vercel.app/
+
 ## Sobre o Projeto
 
 Atualmente, todos os Projetos Integradores do Senac são enviados por plataformas descentralizadas, como e-mail e Microsoft Teams, dificultando o gerenciamento, a rastreabilidade e a visibilidade dos trabalhos. O Observatório de Projetos Integradores foi criado para resolver esse problema por meio de uma plataforma centralizada, inspirada no modelo da Plataforma Lattes.
